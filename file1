@@ -1,1 +1,4 @@
-hello how
+apt-get update -t
+apt-get install docker -y
+snap install docker -y
+service docker start
